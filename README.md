@@ -1,8 +1,8 @@
 
-# Hi!, it's a pleasure meeting you👋. My name is Nnemolisa Stephen
+# Hi!, it's a pleasure meeting you👋. My name is Nnemolisa Stephen Chukwubuikem
 
 
-## I am a Data scientist and a computational biochemist
+## I am an ML/AI Engineer with a passion for Medicinal Chemistry and drug design
 - With my hands-on-experience in building predictive models, I thrive on transforming complex datasets into actionable insights.
 - My recent hands-on project has deepened my appreciation for data-driven approaches in drug discovery and disease management.
 - The application of machine learning techniques in healthcare, finance and education interests me.
